@@ -5,7 +5,7 @@
 - [Case Description](CaseBikes.pdf)
 - [Complete Data Repo](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - [Data for this project](https://drive.google.com/drive/folders/1wjj8qq-ICiGhg_suT9NAbhqlrUsZ2S4f?usp=sharing)
-- [Python notebook](CyclisticDataBaseNotebook.pynb)
+- [Python notebook](CyclisticDataBaseNotebook.ipynb)
 - [R code version 1](CyclisticDataAnalysis.R)
 - [R code version 2](CyclisticDataAnalysis_V2.R)
 - [Final Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSIdreLyHFB0YyaTTnSuyHR2eh-F5oC2GcL8uh7eevN2eV78ZIYHnF6Uw7Mi0gH2ZpSXSBorUNO48m1/pub?start=false&loop=true&delayms=3000)
